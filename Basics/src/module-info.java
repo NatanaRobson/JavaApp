@@ -5,5 +5,5 @@
  * @author NRobson
  *
  */
-module Telecommande1 {
+module Basics {
 }
