@@ -102,7 +102,8 @@ public class App {
 		else{
 			System.out.print("\n MERCI D'AVOIR CHOISI NOS SERVICES, BISOUX");
 		}
-		
+		sc.close();
+		scs.close();
 		
 	}
 		
