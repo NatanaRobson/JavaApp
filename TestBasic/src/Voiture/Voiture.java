@@ -20,10 +20,10 @@ public class Voiture {
 				this.neuf = neufV;
 			}
 			
-			// reccup des donnees de la voiture
+			// GET reccup des donnees de la voiture
 			public String description()
 			{
-				return "marque : " + this.marque + 
+				return "\n marque : " + this.marque + 
 						"\n modele : " + this.modele +
 						"\n anne : " + this.annee +
 						"\n neuf : " + this.neuf;
